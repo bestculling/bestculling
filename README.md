@@ -1,16 +1,13 @@
-### Hi there 👋
+# BESTCULLING
 
-<!--
-**bestculling/bestculling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Arm. I'm junior student at Bachelor of Science Program in Computer Science SSRU in Bangkok, Thailand.
 
-Here are some ideas to get you started:
+<div>
+    <a href="https://github.com/bestculling?tab=repositories">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestculling&layout=compact" width="400" height="200"/>
+    </a>
+    <a href="https://github.com/bestculling?tab=repositories">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bestculling&show_icons=true&count_private=true" alt="caco-jr" />
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
