@@ -7,9 +7,15 @@ My name is Arm. I'm student at Bachelor of Science Program in Computer Science S
 <hr/>
 
 <div>
+<div>
     <a href="https://github.com/bestculling?tab=repositories">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestculling&layout=compact" width="400" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestculling&layout=compact" width="400" height="200"/>
     </a>
+    </div>
+    <div>
+    <a href="https://github.com/bestculling?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api?username=bestculling&show_icons=true&count_private=true" alt="caco-jr" />
+    </a></div>
 </div>
 
 <hr/>
@@ -19,4 +25,3 @@ My name is Arm. I'm student at Bachelor of Science Program in Computer Science S
 <a href="https://www.linkedin.com/in/akkrapol-kanpong-ab362214a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@aukkrapolarm" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
