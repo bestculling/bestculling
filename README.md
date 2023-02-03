@@ -1,6 +1,6 @@
 # BESTCULLING
 
-<img src="./imgs/background.jpg" width="550" height="350"/>
+<img src="./imgs/background.jpg" width="550" height="550"/>
 
 My name is Arm. I'm student at Bachelor of Science Program in Computer Science SSRU in Bangkok, Thailand.
 
