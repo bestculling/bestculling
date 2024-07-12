@@ -3,10 +3,11 @@
 ## 💼 - Programming Skills & Technology Stack
 
 - Languages : JavaScript & TypeScript, Python, Java, HTML & CSS
-- Frameworks : ReactJS, NextJS, Tailwind, NodeJS, Express, Material-UI 5, Bootstrap
+- Frameworks : ReactJS, ReduxJS, NextJS, Tailwind, NodeJS, Express, Material-UI 5, Bootstrap
 - Database:  MySQL, MongoDB
+- Data Science: Pandas, Numpy, Mathplot, Sklearn
 - Tools : Visual Studio Code, Git
-- Other : Firebase, Vercel, Netlify
+- Other : Firebase, Vercel, Netlify, Generative AI
     
 <hr/>
 
