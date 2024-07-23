@@ -13,6 +13,7 @@
 
 ## 📚 - My Projects in 2024
 
+- [Text Summarization API with LangChain and FastAPI](https://github.com/bestculling/LangChainWebSummarizer)
 - [ShopTouch-Web-Application](https://github.com/bestculling/ShopTouch-Web-Application)
 - [TouchMyLike Large Language Model UI](https://github.com/bestculling/UI-TML-Turbo)
 - [TouchMyLike Large Language Model Server](https://github.com/bestculling/Beta-TML-Turbo)
